@@ -1,0 +1,9 @@
+anthropic
+gspread
+google-auth
+google-auth-oauthlib
+python-dotenv
+requests
+groq
+openai
+Pillow
